@@ -9,12 +9,7 @@ if SERVER then
 	}
 
 	local allowedTerms = {
-		"I love Synergy!",
-		"Naval is my favorite battalion.",
-		"Coruscant Guard do gods work.",
-		"The staff here are amazing!",
-		"Robb is pog!",
-		"Trad more like chad."
+		-- Insert the terms to replace blocked messages as an array of strings.
 	}
 
 -----------------------------------
