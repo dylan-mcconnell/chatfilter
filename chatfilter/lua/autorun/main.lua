@@ -5,22 +5,7 @@
 local spamCounterReset = 5 -- How many seconds until the persons spam counter resets
 if SERVER then
 	local blockedTerms = {
-		"nig",
-		"niglet",
-		"nigger",
-		"sniggered",
-		"niggard",
-		"koonboy",
-		"nigar",
-		"coonboy",
-		"negro",
-		"nlgger",
-		"nigor",
-		"cum",
-		"nibba",
-		"porn",
-		"p0rn",
-		"frick" -- Remove this term
+		-- Insert blocked terms here as an array of strings.
 	}
 
 	local allowedTerms = {
