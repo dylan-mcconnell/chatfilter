@@ -1,4 +1,2 @@
 # chatfilter
-Simple chat filter made for Synergy Roleplay
-
-Replaces message with "[Synergy] Your message has been blocked, it contains a term that violates the chat filter."
+Simple chat filter made for a multiplayer game, Garry's Mod.
